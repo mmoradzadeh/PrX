@@ -47,3 +47,9 @@ Release/
 *.DS_Store
 Icon?
 .
+
+# Additional Visual Studio cache and layout files
+*.userosscache
+*.sln.docstates
+*.backup.json
+DocumentLayout.json
