@@ -29,6 +29,10 @@ build/
 .vs/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
+*.backup.json
+DocumentLayout.json
 bin/
 obj/
 Debug/
@@ -38,18 +42,22 @@ Release/
 *.exe
 *.exe.config
 
+# NuGet packages
+*.nupkg
+packages/
+
+# Compressed files
+*.zip
+*.rar
+
 # IDEs and editors
 .idea/
 .vscode/
 *.swp
 
 # Operating system files
-*.DS_Store
+.DS_Store
+Thumbs.db
+desktop.ini
 Icon?
-.
-
-# Additional Visual Studio cache and layout files
-*.userosscache
-*.sln.docstates
-*.backup.json
-DocumentLayout.json
+._*
