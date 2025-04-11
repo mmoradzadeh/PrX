@@ -1,0 +1,49 @@
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node Modules (JavaScript)
+node_modules/
+
+# Compiled JavaScript files
+dist/
+build/
+
+# Environment Variables & Sensitive Info
+.env
+.env.*
+
+# SQL backups & dumps
+*.sqlbackup
+*.bak
+*.tmp
+*.cache
+
+# Visual Studio/C# specific files
+.vs/
+*.user
+*.suo
+bin/
+obj/
+Debug/
+Release/
+*.pdb
+*.dll
+*.exe
+*.exe.config
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+*.DS_Store
+Icon?
+.
