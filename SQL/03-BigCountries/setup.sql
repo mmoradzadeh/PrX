@@ -7,8 +7,8 @@ CREATE TABLE World (
 );
 
 INSERT INTO World (name, continent, area, population, gdp) VALUES
-('Afghanistan', 'Asia', 652230, 25500100, 20343000000),
-('Albania', 'Europe', 28748, 2831741, 12960000000),
-('Algeria', 'Africa', 2381741, 37100000, 188681000000),
-('Andorra', 'Europe', 468, 78115, 3712000000),
-('Angola', 'Africa', 1246700, 20609294, 100990000000);
+('Canada', 'North America', 9984670, 38000000, 2000000000000),
+('Germany', 'Europe', 357386, 83000000, 4200000000000),
+('France', 'Europe', 551695, 67000000, 3000000000000),
+('Sweden', 'Europe', 450295, 10000000, 600000000000),
+('Australia', 'Oceania', 7692024, 25000000, 1800000000000);

@@ -7,5 +7,5 @@ CREATE TABLE City (
 );
 
 INSERT INTO City (ID, Name, CountryCode, District, Population) VALUES
-(1, 'Kabul', 'AFG', 'Kabol', 1780000),
-(2, 'Amsterdam', 'NLD', 'Noord', 731200);
+(1, 'Toronto', 'CAN', 'Ontario', 2800000),
+(2, 'Paris', 'FRA', 'Île-de-France', 2148000);

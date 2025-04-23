@@ -7,10 +7,9 @@ CREATE TABLE City (
 );
 
 INSERT INTO City (ID, Name, CountryCode, District, Population) VALUES
-(1, 'Kabul', 'AFG', 'Kabol', 1780000),
-(2, 'Qandahar', 'AFG', 'Qandahar', 237500),
-(3, 'Herat', 'AFG', 'Herat', 186800),
-(4, 'Mazar', 'AFG', 'Balkh', 127800),
-(5, 'Amsterdam', 'NLD', 'Noord', 731200),
-(6, 'Utrecht', 'NLD', 'Utrecht', 234323),
-(7, 'Lille', 'FRA', 'Nord', 98000); -- Not expected to appear
+(1, 'Toronto', 'CAN', 'Ontario', 2800000),
+(2, 'New York', 'USA', 'New York', 8800000),
+(3, 'Vancouver', 'CAN', 'British Columbia', 675218),
+(4, 'London', 'GBR', 'Greater London', 9304016),
+(5, 'Paris', 'FRA', 'Île-de-France', 2148000),
+(6, 'Oslo', 'NOR', 'Oslo', 681067);
